@@ -1,0 +1,13 @@
+# Visual Studio 2017
+.vs/
+
+# Binaries
+Binaries/
+
+Config/
+Content/
+Intermediate/
+Saved/
+
+DungeonEscape.sln
+DungeonEscape.uproject
